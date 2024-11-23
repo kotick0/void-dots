@@ -1,0 +1,22 @@
+#GENERALS
+[terminal.shell]
+program = "/bin/fish"
+
+#WINDOW
+[window]
+decorations = "None"
+opacity = 0.7
+title = "uwu-term"
+dynamic_title = true 
+
+#SCROLLING
+[scrolling]
+history = 10000
+
+#FONTS
+[font]
+normal = { family = "HackNerdFont", style = "Regular" }
+size = 9.25
+
+[terminal]
+
